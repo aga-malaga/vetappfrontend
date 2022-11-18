@@ -1,0 +1,46 @@
+div {
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    width: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    color: darkcyan;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+img {
+    display: block;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 70%;
+    background-color: #96D4D4;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+th {
+    height: 70px;
+    background-color: darkcyan;
+}
+
+tr {
+    height: 70px;
+}
