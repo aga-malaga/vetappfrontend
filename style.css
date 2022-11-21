@@ -1,12 +1,8 @@
-div {
-    border: 1px solid gray;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 8px;
-    width: 50%;
-    text-align: center;
+.jumbotron {
     text-transform: uppercase;
-    color: darkcyan;
+    font-size: xx-large;
+    padding-top: 20%;
+    padding-bottom: 20%;
 }
 
 p {
@@ -20,27 +16,4 @@ img {
     width: 700px;
     margin-left: auto;
     margin-right: auto;
-}
-
-table {
-    width: 70%;
-    background-color: #96D4D4;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-table,
-th,
-td {
-    border: 2px solid white;
-    border-collapse: collapse;
-}
-
-th {
-    height: 70px;
-    background-color: darkcyan;
-}
-
-tr {
-    height: 70px;
 }
