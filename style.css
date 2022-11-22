@@ -1,10 +1,3 @@
-.jumbotron {
-    text-transform: uppercase;
-    font-size: xx-large;
-    padding-top: 20%;
-    padding-bottom: 20%;
-}
-
 p {
     text-indent: 50px;
     text-align: justify;
@@ -13,7 +6,19 @@ p {
 
 img {
     display: block;
-    width: 700px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+
+.navbar {
+    background-color: #e4d5da;
+}
+
+.col-sm-7 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+    text-align: center;
+    padding: 10%;
+    flex-direction: row;
+    font-family: 'Oleo Script', cursive;
 }
